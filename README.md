@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shamil-devs/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shamil-devs/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Shamil-devs/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Shamil-devs/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shamil-devs/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Shamil-devs/Leetcode/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Shamil-devs/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
