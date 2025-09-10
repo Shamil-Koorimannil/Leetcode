@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shamil-devs/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Shamil-devs/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Shamil-devs/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3194-find-words-containing-character](https://github.com/Shamil-devs/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shamil-devs/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shamil-devs/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Shamil-devs/Leetcode/tree/master/0066-plus-one) |
+| [3194-find-words-containing-character](https://github.com/Shamil-devs/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
