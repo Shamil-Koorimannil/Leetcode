@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shamil-devs/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shamil-devs/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamil-devs/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shamil-devs/Leetcode/tree/master/0136-single-number) |
 | [3194-find-words-containing-character](https://github.com/Shamil-devs/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shamil-devs/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shamil-devs/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
