@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shamil-devs/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shamil-devs/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shamil-devs/Leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Shamil-devs/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shamil-devs/Leetcode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/Shamil-devs/Leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/Shamil-devs/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shamil-devs/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shamil-devs/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shamil-devs/Leetcode/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shamil-devs/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
